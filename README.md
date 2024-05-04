@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SffgArmy12
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in Software Engineering and Minecraft
 - 🌱 I’m currently learning Programming stuff
 - 💞️ I’m looking to collaborate on Web development Projects
 - 📫 How to reach me:
