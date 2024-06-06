@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SffgArmy12
+- 👋 Hi, I’m @pineapple
 - 👀 I’m interested in Software Engineering and Minecraft
 - 🌱 I’m currently learning Programming stuff
 - 💞️ I’m looking to collaborate on Web development Projects
