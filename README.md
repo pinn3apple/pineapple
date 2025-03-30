@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Programming stuff
 - 💞️ I’m looking to collaborate on Web development Projects or Minecraft Projects
 - 📫 How to reach me:
-- Email: harjapkapoor22@gmail.com
+- Discord -> pinn3apple
 
 <!---
 SffgArmy12/SffgArmy12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
